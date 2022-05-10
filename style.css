@@ -1,5 +1,6 @@
 body,
-html {
+html,
+{
     margin: 0;
     padding: 0;
 }
@@ -42,4 +43,10 @@ button:first-of-type {
 
 button::hover {
     cursor: pointer;
+}
+
+p {
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
 }
